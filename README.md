@@ -1,2 +1,2 @@
 # stepic_django
-Bzzzp!
+2nd module
